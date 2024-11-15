@@ -4,7 +4,7 @@ from datetime import datetime
 import base64
 
 # Configure the Generative AI
-ai.configure(api_key="AIzaSyClOLlHZzCKHsVWWfAydRbbWog_OH2lUo0")
+ai.configure(api_key="your_api_key")
 model = ai.GenerativeModel('gemini-pro')
 
 # Initialize chatbot and session state variables
