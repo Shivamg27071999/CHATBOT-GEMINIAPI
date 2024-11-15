@@ -138,10 +138,6 @@ Contributions are welcome! Feel free to fork the repository, submit issues, or c
 
 ---
 
-## 📜 License
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
-
----
 
 ## 🔗 Connect
 - **GitHub**: [Shivam S Garg](https://github.com/Shivamg27071999)
