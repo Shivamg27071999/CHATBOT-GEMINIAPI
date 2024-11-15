@@ -144,8 +144,8 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ---
 
 ## 🔗 Connect
-- **GitHub**: [YourUsername](https://github.com/Shivamg27071999)
-- **LinkedIn**: [YourProfile](https://www.linkedin.com/in/shivam2707/)
+- **GitHub**: [Shivam S Garg](https://github.com/Shivamg27071999)
+- **LinkedIn**: [Shivam S Garg](https://www.linkedin.com/in/shivam2707/)
 
 
 
