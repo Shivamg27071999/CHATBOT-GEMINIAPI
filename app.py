@@ -2,7 +2,7 @@ import streamlit as st
 import google.generativeai as ai
 
 # Configure the Generative AI
-ai.configure(api_key="AIzaSyClOLlHZzCKHsVWWfAydRbbWog_OH2lUo0")
+ai.configure(api_key="")
 model = ai.GenerativeModel('gemini-pro')
 
 # Initialize the chatbot and history in session state
